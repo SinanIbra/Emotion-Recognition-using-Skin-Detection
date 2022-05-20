@@ -4,7 +4,7 @@ Human-machine interface (HMI) is an important part of robotics, that allows to c
 Face detection is a crucial first step in many facial recognition and face analysis systems, Early approaches for face detection were mainly based on classifiers built on top of hand-crafted features extracted from local image regions, such as Haar Cascades and Histogram of Oriented Gradients.
 Moreover, face expressions are natural and direct means for human beings to communicate their emotions and intentions. Face expressions are the key characteristics of non-verbal communication.
 ______________________________________
-instructions:
-_import the nessery libraries
-_upload the saved CNN-models into your colab drive and load them (to thier current path)
-_run the code
+Instructions:
+_import the nessery libraries.
+_upload the saved CNN-models into your woork-space and load them.
+_run the code.
